@@ -1,2 +1,3 @@
 a="hello"
-print(a)
+c=123
+print(a + str(c))
