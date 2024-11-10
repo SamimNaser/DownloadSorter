@@ -1,2 +1,0 @@
-b="help!"
-print(b)
